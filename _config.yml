@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Security
     description                           : Using advanced encryption algorithms to encrypt password data and write it to files in a custom format for greater security
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : shield
     
   - title                                 : Cloud Storage
     description                           : Using private cloud to synchronize password data, allowing each data to have an independent password and letting users manage their data in a decentralized way
@@ -46,23 +46,23 @@ features                                  :
 
   - title                                 : More User-friendly
     description                           : Providing password security and risk statistics, regular reminders for password updates, automatic password generation, Base64 encoding and decoding tools
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : smile-o
 
   - title                                 : Password Management
     description                           : Allow password data to be managed in groups 
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : folder-open
 
   - title                                 : Sub-passwords
     description                           : Allow multiple security questions and multiple sub-passwords to be added for each password, etc
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : gears
   
   - title                                 : Icons
     description                           : Allow to add personalized icons and parse webpage icons from links
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : file-picture-o
 
   - title                                 : More In The Future
     description                           : More features will be added in the future
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : gift
 
 # Theme Settings
 topbar_color                              : "#000000"

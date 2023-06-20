@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Security
     description                           : Using advanced encryption algorithms to encrypt password data and write it to files in a custom format for greater security
-    fontawesome_icon_name                 : expeditedssl
+    fontawesome_icon_name                 : lock
     
   - title                                 : Cloud Storage
     description                           : Using private cloud to synchronize password data, allowing each data to have an independent password and letting users manage their data in a decentralized way
@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : More User-friendly
     description                           : Providing password security and risk statistics, regular reminders for password updates, automatic password generation, Base64 encoding and decoding tools
-    fontawesome_icon_name                 : smile-o
+    fontawesome_icon_name                 : thumbs-up
 
   - title                                 : Password Management
     description                           : Allow password data to be managed in groups 
@@ -58,7 +58,7 @@ features                                  :
   
   - title                                 : Icons
     description                           : Allow to add personalized icons and parse webpage icons from links
-    fontawesome_icon_name                 : file-image-o
+    fontawesome_icon_name                 : puzzle-piece
 
   - title                                 : More In The Future
     description                           : More features will be added in the future
